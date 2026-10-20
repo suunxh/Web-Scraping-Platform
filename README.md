@@ -1,1 +1,1 @@
-# Web-Scraping-Platform
+# adaptive-web-data-collection-platform
